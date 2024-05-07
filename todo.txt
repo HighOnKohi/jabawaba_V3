@@ -1,0 +1,6 @@
+- remove the option to add new items
+- narrow down restocking to
+
+  - Category -> Stock type -> convert to per peice -> insert to database
+
+- Stock type (Per box, per dozen, per peice)
